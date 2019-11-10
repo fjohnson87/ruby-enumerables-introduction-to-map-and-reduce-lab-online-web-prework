@@ -5,3 +5,4 @@ end
 def map_to_no_change
   dune = ["paul", "gurney", "vladimir", "jessica", "chani"] 
 end  
+def map_to_square
