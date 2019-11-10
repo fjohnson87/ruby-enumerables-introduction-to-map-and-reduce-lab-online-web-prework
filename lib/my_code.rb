@@ -18,5 +18,6 @@ def my_own_reduce_like _methods
 end
 
 def reduce_to_total
+  source_array = [1,2,3]
   starting_point = 100
 end  
