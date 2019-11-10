@@ -22,3 +22,6 @@ def reduce_to_total
   starting_point = 100
   reduce_to_total = starting_point + source_array.sum
 end  
+
+def
+source_array = [1, 2, true, "razmatazz"]
