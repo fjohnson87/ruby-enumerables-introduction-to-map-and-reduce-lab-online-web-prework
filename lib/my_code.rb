@@ -13,4 +13,5 @@ def map_to_square
   map_to_square = [(1, 2, 3, -9)]*map_to_square
 end
 
-def my_own reduce-like methods
+def my_own_reduce_like _methods
+  def
