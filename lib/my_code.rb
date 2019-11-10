@@ -14,4 +14,4 @@ def map_to_square
 end
 
 def my_own_reduce_like _methods
-  def
+  source_array = [1,2,3]
