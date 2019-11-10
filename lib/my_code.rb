@@ -36,5 +36,6 @@ def reduce_to_any_true
 end
 
 def reduce_to_any_true 
+  [ false, nil, nil, nil]
 
 end
