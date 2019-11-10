@@ -9,4 +9,5 @@ def map_to_double
   map_to_double = [(1, 2, 3, -9)]*2
 end
 
-def ma
+def map_to_square
+  
