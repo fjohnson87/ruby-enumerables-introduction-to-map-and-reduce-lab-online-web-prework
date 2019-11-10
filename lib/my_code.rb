@@ -23,5 +23,14 @@ def reduce_to_total
   reduce_to_total = starting_point + source_array.sum
 end  
 
-def
+def reduce_to_all_true
 source_array = [1, 2, true, "razmatazz"]
+end
+
+def
+
+end
+
+def
+
+end
