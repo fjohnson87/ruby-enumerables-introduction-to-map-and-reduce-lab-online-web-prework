@@ -10,4 +10,4 @@ def map_to_double
 end
 
 def map_to_square
-  map_to_square = 
+  map_to_square = [(1, 2, 3, -9)]
