@@ -20,4 +20,5 @@ end
 def reduce_to_total
   source_array = [1,2,3]
   starting_point = 100
+  reduce_to_total = starting_point + source_array.sum
 end  
