@@ -6,3 +6,5 @@ def map_to_no_change
   dune = ["paul", "gurney", "vladimir", "jessica", "chani"] 
 end  
 def map_to_square
+  map_to_double = [(1, 2, 3, -9)]*2
+end
