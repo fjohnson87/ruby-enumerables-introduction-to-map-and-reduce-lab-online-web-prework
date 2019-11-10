@@ -18,5 +18,5 @@ def my_own_reduce_like _methods
 end
 
 def reduce_to_total
-  
+  starting_point = 100
 end  
