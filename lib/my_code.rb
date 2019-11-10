@@ -28,7 +28,7 @@ source_array = [1, 2, true, (!!"razmatazz")]
 end
 
 def reduce_to_all_true
-source_array = [1, 2, true, "razmatazz", false]
+source_array = [1, 2, true, "razmatazz", !(false)]
 end
 
 def reduce_to_any_true
