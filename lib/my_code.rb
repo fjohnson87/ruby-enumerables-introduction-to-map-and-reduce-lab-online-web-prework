@@ -31,6 +31,6 @@ def
 
 end
 
-def
+def reduce_to_any_true 
 
 end
