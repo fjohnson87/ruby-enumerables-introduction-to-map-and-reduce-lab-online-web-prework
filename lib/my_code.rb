@@ -17,4 +17,6 @@ def my_own_reduce_like _methods
   source_array = [1,2,3].sum
 end
 
-def
+def reduce_to_total
+  
+end  
